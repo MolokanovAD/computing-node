@@ -1,0 +1,1 @@
+computer-node solves tasks, which are received from task-manager.
